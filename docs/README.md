@@ -1,4 +1,4 @@
-# Flask PWA - API Extension Task
+# My AI Chatbot
 
 This task is to build a safe [RESTful API](https://blog.hubspot.com/website/what-is-rest-api) that extends the [Flask PWA - Programming for the Web Task](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template). From the parent task, students will abstract the database and management to an REST API with key authentication. The PWA will then be retooled to GET request the data from the REST API and POST request data to the REST API. The PWA UI for the API will be rapidly prototyped using the [Bootstrap](https://getbootstrap.com/) frontend framework.
 
